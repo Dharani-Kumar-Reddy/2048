@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1539682695 source:c:\users\dheeru\desktop\dheeru\mini project\2048v5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
